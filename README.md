@@ -1,3 +1,18 @@
+This project was created by Avatar C'aura on 29 Feb 2024
+Tools:
+
+React Typescript
+Firebase 
+Bootstrap
+Javascript
+React JS
+VS Code
+
+Project:
+ToDo List Web Application with CRUD functionalities
+Using a Firebase backend
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
